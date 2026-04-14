@@ -22,16 +22,19 @@ I am passionate about building real-time embedded systems and robotics projects.
 
 ---
 
-## 📂 Projects
+## 📌 Projects
 
 ### 🤖 Offline Robo Attendance System
-An automated attendance system using a mobile robot with sensors and camera.
+- Automated attendance system using sensors and camera
+- Built using embedded systems concepts
 
-### 🪖 Smart Helmet System
-A safety system that ensures helmet usage and detects alcohol.
+### 🌞 Smart Solar Street Light System (Ongoing)
+- Solar + grid hybrid system with LDR & PIR sensor
+- Includes battery management and relay switching
 
-### ⚡ Smart Energy Monitoring System
-A system to monitor and optimize electricity usage.
+### 🐄 Cow Detection System (Ongoing)
+- Raspberry Pi + OpenCV based object detection
+- Automation using servo motor
 
 ---
 
