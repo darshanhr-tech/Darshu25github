@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Darshan HR 👋
 
-<!--
-**Darshu25github/Darshu25github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EEE Student  
+⚡ Embedded Systems & IoT Enthusiast  
+🤖 Arduino & Raspberry Pi Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am passionate about building real-time embedded systems and robotics projects. I enjoy working with sensors, automation, and IoT-based solutions.
+
+---
+
+## 🔧 Skills
+- Arduino
+- Raspberry Pi
+- Embedded C
+- Python
+- IoT
+- Sensors & Actuators
+- Robotics
+
+---
+
+## 📂 Projects
+
+### 🤖 Offline Robo Attendance System
+An automated attendance system using a mobile robot with sensors and camera.
+
+### 🪖 Smart Helmet System
+A safety system that ensures helmet usage and detects alcohol.
+
+### ⚡ Smart Energy Monitoring System
+A system to monitor and optimize electricity usage.
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/darshanhr-tech
