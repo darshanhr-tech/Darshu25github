@@ -1,146 +1,73 @@
 # Darshan HR 👋
 
-### Electrical & Electronics Engineering Student | Embedded Systems | IoT | Flutter App Development
+### EEE Student | Flutter Application Developer
 
-I’m **Darshan HR**, an EEE engineering student who enjoys creating practical technology projects by combining **electronics, embedded systems, software, automation, and mobile applications**.
+I’m **Darshan HR**, an Electrical & Electronics Engineering student interested in **software and application development**.
 
-I build projects from an initial idea through **design → development → hardware/software integration → testing → documentation → working demonstration**.
-
----
-
-## 🚀 What I Do
-
-- 📱 Create mobile applications and business workflow prototypes using **Flutter & Dart**
-- ⚡ Develop embedded and electronics projects
-- 🤖 Build robotics and automation systems
-- 🌐 Develop IoT solutions using microcontrollers, sensors, GPS and GSM/GPRS
-- 🧠 Experiment with computer vision and AI-based object detection
-- 🔧 Design and troubleshoot electronic circuits and hardware systems
-- 🛠️ Document projects for demonstrations, portfolios and future development
+I enjoy turning real-world requirements into practical, professional applications and business workflow prototypes.
 
 ---
 
-## 🧻 Featured Application — SOFT TISSUE
+## 📱 Application Development
 
-**SOFT TISSUE — Customer Ordering & Business Management Demo**
+### 🧻 SOFT TISSUE — Customer Ordering & Business Management App
 
-I designed and developed a **Flutter-based B2B customer ordering application prototype** for a tissue manufacturing business, with the goal of demonstrating the complete business workflow to clients and investors.
+A **Flutter-based mobile application prototype** created for a tissue manufacturing business demonstration.
 
-### Customer Application
+The application covers both the **customer ordering experience** and the **business-side order management workflow**.
+
+### Customer App Flow
 
 `Home → Products → Product Details → Cart → Customer Details → Submit Order → Order Confirmation`
 
-### Business Workflow
+### Business App Flow
 
 `Business Dashboard → Order Details → Production Management → Order Status`
 
-### Order Lifecycle
+### Order Workflow
 
 `New → Confirmed → Manufacturing → Quality Check → Packed → Dispatched → Out for Delivery → Delivered`
 
-### Features I implemented
+### What I Developed
 
-- Professional mobile UI
-- Product catalogue with product images
+- Professional mobile application UI
+- Product catalogue and product images
 - Product details and specifications
-- Carton-based quantity selection
-- Shopping cart and estimated order value
-- Customer/company information
-- Mobile number and delivery address
-- GST information capture
-- Automatic order ID concept
-- Order confirmation screen
+- Carton-based product ordering
+- Shopping cart
+- Estimated order value
+- Customer and company details
+- Mobile number and delivery address collection
+- GST information collection
+- Order confirmation
 - Business order dashboard
-- Customer/order detail view
-- Production management workflow
+- Complete order details
+- Production management screen
 - Multi-stage order tracking
-- Android release APK generation
+- Android APK release build
 
 **Technology:** Flutter • Dart • Android • Material UI
 
-**Status:** ✅ Client/Investor Demo V1 completed
+**Status:** ✅ V1 Client/Business Demonstration App Completed
 
-> This application was developed as a technology prototype for a friend's tissue manufacturing business. The project demonstrates my ability to convert a real business requirement into a working software prototype.
-
----
-
-## 🤖 Offline Robo Attendance System
-
-An embedded automation project focused on attendance management using electronics, sensing and hardware interaction.
-
-**Focus:** Embedded Systems • Automation • Sensors • Hardware Integration
+> This application was developed as a software prototype for a friend's tissue manufacturing business. It demonstrates my ability to convert a real business requirement into a working mobile application.
 
 ---
 
-## 🐄 Cow Detection & Automated Boat System
+## 💻 My Application Development Approach
 
-A Raspberry Pi computer-vision and automation project combining object detection with physical movement control.
-
-**Highlights:**
-- Raspberry Pi
-- Camera-based object detection
-- OpenCV / TensorFlow Lite
-- Servo motor control
-- DC motor control
-- Automated response to detected objects
+**Business Requirement → UI Design → Flutter Development → Testing → Android APK → Demonstration**
 
 ---
 
-## 🌞 Smart Solar Street Light System
+## 🎯 Current Software Focus
 
-A solar and grid hybrid street-light automation concept.
-
-**Highlights:**
-- Solar power
-- Battery monitoring
-- LDR-based lighting control
-- PIR-based detection
-- Relay switching
-- Energy management
-
----
-
-## 🛠️ Technical Skills
-
-| Area | Technologies / Skills |
-|---|---|
-| Programming | C, Embedded C, Python, Dart |
-| App Development | Flutter, Android |
-| Microcontrollers | Arduino, ESP32, ESP8266, 8051 |
-| Computing | Raspberry Pi |
-| IoT | GPS, GSM/GPRS, ThingSpeak |
-| Computer Vision | OpenCV, TensorFlow Lite |
-| Electronics | Sensors, Actuators, Motors, Relays, ADC, Current/Voltage Measurement |
-| Design & Tools | KiCad, Fusion 360, Arduino IDE, Android Studio |
-| Version Control | Git, GitHub |
-
----
-
-## 🎯 My Engineering Interests
-
-**Embedded Systems • IoT • Robotics • Automation • Computer Vision • Flutter Applications • Electronics Product Development**
-
-I’m especially interested in projects where **hardware and software work together to solve a real-world problem**.
-
----
-
-## 📈 My Project Journey
-
-I’m continuously building my portfolio through practical projects rather than only studying theory.
-
-**Concept**
-↓
-**Circuit / System Design**
-↓
-**Software Development**
-↓
-**Hardware Integration**
-↓
-**Testing & Debugging**
-↓
-**Documentation**
-↓
-**Working Prototype**
+- Flutter application development
+- Mobile UI/UX implementation
+- Business workflow applications
+- Online ordering applications
+- Order management systems
+- Android application development
 
 ---
 
@@ -151,6 +78,6 @@ I’m continuously building my portfolio through practical projects rather than 
 
 ---
 
-⭐ **I build, test, learn and turn engineering ideas into working technology.**
+⭐ **Building practical applications from real-world ideas.**
 
 *— Darshan HR*
