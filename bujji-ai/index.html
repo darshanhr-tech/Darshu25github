@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#100b24">
+<title>BUJJI AI — Intelligent Human-Interactive Robot</title>
+<meta name="description" content="BUJJI AI is a modular human-interactive robotics platform combining computer vision, face recognition, object detection, AI-generated responses and basic robotic control.">
+<style>
+:root{--bg:#090817;--panel:#17132d;--line:#55358b;--purple:#bb78ff;--cyan:#6de7ee;--text:#f5f1ff;--muted:#c3b9d7}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 80% 0,#29114d 0,transparent 35%),var(--bg);color:var(--text);font:16px/1.65 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:var(--cyan)}.wrap{max-width:1100px;margin:auto;padding:24px}.hero{padding:72px 0 44px;text-align:center}.eyebrow{color:var(--cyan);letter-spacing:.18em;text-transform:uppercase;font-size:.78rem;font-weight:700}.hero h1{font-size:clamp(2.5rem,7vw,5.5rem);line-height:1;margin:18px 0;color:#fff;text-shadow:0 0 28px #9d4dff}.hero h2{font-size:clamp(1.1rem,3vw,1.8rem);font-weight:500;margin:0;color:#e8d9ff}.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:8px 15px;margin-top:22px;color:#e9d8ff;background:#1a1230}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:16px;margin:18px 0 34px}.card{background:linear-gradient(145deg,#1b1634,#100e20);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 8px 28px #0005}.card h3{margin:0 0 9px;color:var(--purple)}h2.section{font-size:1.65rem;margin:42px 0 12px}p,.muted{color:var(--muted)}ul{padding-left:20px;color:var(--muted)}.pill{display:inline-block;border:1px solid #57407b;border-radius:9px;padding:5px 9px;margin:4px;color:#e8ddff;font-size:.9rem}.notice{border-left:4px solid var(--cyan);padding:12px 16px;background:#11152a;border-radius:8px;color:var(--muted)}footer{border-top:1px solid var(--line);margin-top:46px;padding:28px 0;color:var(--muted)}.team{font-size:1.08rem;color:white;font-weight:650}
+</style>
+</head>
+<body><main class="wrap">
+<header class="hero">
+<div class="eyebrow">Robotics • Artificial Intelligence • Human Interaction</div>
+<h1>BUJJI AI</h1><h2>Intelligent Human-Interactive Robot</h2>
+<div class="tag">INEX EXPO • Innovation Project</div>
+<p style="max-width:760px;margin:26px auto 0">An expandable robotics platform bringing together computer vision, face recognition, object detection, AI-generated responses and basic robotic control.</p>
+</header>
+<section>
+<h2 class="section">Project overview</h2>
+<p>BUJJI AI is a human-interactive robot development project. The current Raspberry Pi implementation combines camera-based visual processing, registered-face recognition, object detection, browser dashboards and a microcontroller interface for motor-control operations. A separate Google Gemini integration runs on an Intel MacBook Pro; its responses are reported to be communicated to the Raspberry Pi system. The exact communication protocol is still to be documented.</p>
+</section>
+<section>
+<h2 class="section">Current system architecture</h2>
+<div class="grid">
+<article class="card"><h3>Primary computer</h3><p><strong>Raspberry Pi 5 — 8 GB RAM</strong><br>Debian 13 • Python 3.13</p><p>Runs the main vision and Flask dashboard functions.</p></article>
+<article class="card"><h3>Visual input</h3><p><strong>Zebronics USB webcam</strong></p><p>Provides live camera input for face recognition and object detection.</p></article>
+<article class="card"><h3>Face recognition</h3><p><strong>OpenCV + LBPH</strong></p><p>Uses trained face data. Current development setup includes two test identities.</p></article>
+<article class="card"><h3>Object detection</h3><p><strong>TensorFlow Lite EfficientDet Lite0</strong></p><p>Analyses camera input for objects supported by the model.</p></article>
+<article class="card"><h3>AI integration</h3><p><strong>Google Gemini</strong></p><p>Runs separately on an Intel MacBook Pro. The Pi communication path requires source-code verification.</p></article>
+<article class="card"><h3>Hardware control</h3><p><strong>Arduino Uno</strong></p><p>Connected to the Raspberry Pi through serial communication for motor-control operations.</p></article>
+</div>
+</section>
+<section>
+<h2 class="section">Software and technologies</h2>
+<div><span class="pill">Python 3.13</span><span class="pill">Debian 13</span><span class="pill">Flask</span><span class="pill">OpenCV</span><span class="pill">LBPH</span><span class="pill">TensorFlow Lite</span><span class="pill">EfficientDet Lite0</span><span class="pill">Google Gemini</span><span class="pill">Arduino Uno</span><span class="pill">Serial communication</span></div>
+</section>
+<section>
+<h2 class="section">Dashboard interfaces</h2>
+<div class="grid">
+<article class="card"><h3>01 · Face training</h3><p>Interface for face registration, training and related recognition operations.</p></article>
+<article class="card"><h3>02 · Motor control</h3><p>Browser interface for operating motor-control functionality.</p></article>
+<article class="card"><h3>03 · BUJJI AI output</h3><p>Camera, face-recognition, unknown-person handling and object-detection output.</p></article>
+<article class="card"><h3>04 · Combined dashboard</h3><p>Brings face-tracking and AI-output functions into one interface.</p></article>
+</div>
+</section>
+<section>
+<h2 class="section">Potential applications</h2>
+<div class="grid">
+<article class="card"><h3>Human–robot interaction</h3><p>Explore interactive experiences between people and intelligent robotic systems.</p></article>
+<article class="card"><h3>Elderly assistance research</h3><p>Potential future use for reminders, companion interaction and caregiver alerts. These features require implementation and validation.</p></article>
+<article class="card"><h3>Education and research</h3><p>A modular platform for learning robotics, computer vision and AI integration.</p></article>
+</div>
+</section>
+<section>
+<h2 class="section">Innovation focus</h2>
+<ul><li>Combines face recognition and object detection in one camera-based robotic platform.</li><li>Organises functions through multiple browser-based dashboards.</li><li>Connects Raspberry Pi processing with Arduino motor-control operations.</li><li>Explores a distributed AI architecture using a separate Gemini-enabled computer.</li></ul>
+</section>
+<section>
+<h2 class="section">Future development</h2>
+<p>Planned areas include direct voice interaction, multilingual communication, improved perception, additional sensors, fall-detection research, navigation and obstacle avoidance, and more advanced humanoid movement. These are future development goals, not claims of completed functionality.</p>
+</section>
+<section>
+<h2 class="section">Project team</h2>
+<div class="card">
+<p class="team">Darshan H R · Mohammed Saif</p>
+<p>Project guide: Dr. Tanuja K.S., B.E., M.E., Ph.D., MISTE</p>
+<p>Sridevi Institute of Engineering and Technology, Karnataka, India</p>
+<p>COMED KARES Innovation Hub</p>
+</div>
+</section>
+<section>
+<h2 class="section">Project media and source code</h2>
+<div class="notice">Project photographs, demonstration videos, dashboard screenshots and verified source-code repositories will be added as the development files are uploaded. This page currently describes the known project scope and distinguishes implemented functions from planned work.</div>
+</section>
+<footer><strong>BUJJI AI — Intelligent Human-Interactive Robot</strong><br>Project information page • Maintained by the BUJJI AI project team</footer>
+</main></body></html>
