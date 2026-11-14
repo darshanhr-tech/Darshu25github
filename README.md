@@ -81,3 +81,13 @@ The application covers both the **customer ordering experience** and the **busin
 ⭐ **Building practical applications from real-world ideas.**
 
 *— Darshan HR*
+
+## 🤖 BUJJI AI — Intelligent Human-Interactive Robot
+
+An AI-enabled robotics project combining computer vision, face recognition, object detection, browser-based dashboards, Gemini AI integration and Arduino-based motor-control operations.
+
+**Project information:** [Explore BUJJI AI](./bujji-ai/)
+
+**Project team:** Darshan H R and Mohammed Saif  
+**Institution:** Sridevi Institute of Engineering and Technology  
+**Innovation Hub:** COMED KARES
